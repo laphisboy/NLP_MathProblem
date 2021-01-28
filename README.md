@@ -28,7 +28,7 @@ and I was mainly in charge of Text pre-processing / machine learning methods (XG
 ![NLProject_graphModelCompare](https://github.com/laphisboy/NLP_MathProblem/blob/main/NLProject_graphModelCompare.PNG)  
 
 
-#####Additionally,  
+##### Additionally,  
 Another method tested, that is not discussed here, is pretraining BERT model with the data currently in hand.  
 However the dataset is too small, so doesn't show better result than any of the results above.  
 If there were enough data, it would be expected that such implementation would produce the best results.
