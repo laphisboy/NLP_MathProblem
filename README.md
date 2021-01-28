@@ -23,6 +23,6 @@ and I was mainly in charge of Text pre-processing / machine learning methods (XG
 2. Comparison of different Models with fixed text preprocessing  
 - Ensemble method is aggregation of outputs from different selected models with weights
 - After comparing...  
-1. using all model outputs and using a small neural network to learn the best way to combine the outputs  
-2. using only the best performing models for each type of method, best weight is found through trial and error  
+ 1. using all model outputs and using a small neural network to learn the best way to combine the outputs  
+ 2. using only the best performing models for each type of method, best weight is found through trial and error  
 ![NLProject_graphModelCompare](https://github.com/laphisboy/NLP_MathProblem/blob/main/NLProject_graphModelCompare.PNG)
