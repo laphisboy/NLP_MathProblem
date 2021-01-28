@@ -25,4 +25,10 @@ and I was mainly in charge of Text pre-processing / machine learning methods (XG
 - After comparing...  
  1. using all model outputs and using a small neural network to learn the best way to combine the outputs  
  2. using only the best performing models for each type of method, best weight is found through trial and error  
-![NLProject_graphModelCompare](https://github.com/laphisboy/NLP_MathProblem/blob/main/NLProject_graphModelCompare.PNG)
+![NLProject_graphModelCompare](https://github.com/laphisboy/NLP_MathProblem/blob/main/NLProject_graphModelCompare.PNG)  
+
+
+#####Additionally,  
+Another method tested, that is not discussed here, is pretraining BERT model with the data currently in hand.  
+However the dataset is too small, so doesn't show better result than any of the results above.  
+If there were enough data, it would be expected that such implementation would produce the best results.
